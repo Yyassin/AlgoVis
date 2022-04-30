@@ -1,0 +1,6 @@
+[submodule "pathfindingVisualizer"]
+	path = pathfindingVisualizer
+	url = https://github.com/Yyassin/PathfindingVisualizer
+[submodule "sortingVisualizer"]
+	path = sortingVisualizer
+	url = https://github.com/Yyassin/SortingVisualizer
